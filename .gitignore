@@ -38,3 +38,5 @@ next-env.d.ts
 # ignore images
 /products
 /public/products
+
+.env
